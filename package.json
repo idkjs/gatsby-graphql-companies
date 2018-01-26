@@ -1,6 +1,7 @@
 {
   "name": "gatsby-graphql-companies",
   "description": "Gatsby Json transformer lafrenchtech",
+  "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
